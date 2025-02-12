@@ -1,7 +1,7 @@
 # Contributor Covenant
 
 This project is managed by the members of the Organization for Ethical Source, in
-accordance with its [governance structure](https://ethicalsource.dev/governance/).
+accordance with its [governance.com](https://ethicalsource.dev/governance/).
 
 We strive to center the [Ethical Source Principles](https://ethicalsource.dev/principles/)
 in all the work we do and the decisions we make.
